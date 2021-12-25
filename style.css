@@ -1,0 +1,109 @@
+.id-one {
+  background-image: url("images/twitter.png");
+  width: 50%;
+  height: 150vh;
+  float: left;
+}
+.id-two {
+  background-color: black;
+  width: 50%;
+  height: 150vh;
+  float: left;
+}
+.img-one {
+  width: 300px;
+  height: 150px;
+  margin: 130px 50px;
+}
+.img-two {
+  width: 60px;
+  height: 30px;
+  margin-left: 50px;
+  padding-top: 20px;
+}
+.h-one {
+  color: #d9d9d9;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+}
+.h-two {
+  color: #d9d9d9;
+  font-size: 30px;
+  padding-left: 50px;
+}
+.btn-one {
+  background-color: #fefeff;
+  margin-left: 50px;
+  width: 220px;
+  height: 28px;
+  border-radius: 20px;
+  border: 0px solid none;
+}
+.btn-two {
+  background-color: #fefeff;
+  margin-left: 50px;
+  margin-top: 5px;
+  width: 220px;
+  height: 28px;
+  border-radius: 20px;
+  border: 0px solid none;
+}
+.btn-three {
+  background-color: #1d9bf0;
+  color: white;
+  margin-left: 50px;
+  margin-top: 5px;
+  width: 220px;
+  height: 28px;
+  border-radius: 20px;
+  border: 0px solid none;
+}
+.btn-four {
+  background-color: black;
+  color: #1d9bf0;
+  margin-left: 50px;
+  margin-top: 5px;
+  width: 220px;
+  height: 28px;
+  border-radius: 20px;
+  border: 0px solid none;
+}
+.btn-four:hover {
+  background-color: #1f2f35;
+  color: #1d9bf0;
+  margin-left: 50px;
+  margin-top: 5px;
+  width: 220px;
+  height: 28px;
+  border-radius: 20px;
+  border: 0px solid none;
+}
+.p-one {
+  color: #d9d9d9;
+  margin-left: 50px;
+}
+.p-two {
+  color: #d9d9d9;
+  margin-left: 50px;
+  font-size: 10px;
+}
+.p-three {
+  color: #d9d9d9;
+  margin-left: 50px;
+  margin-top: 40px;
+  font-size: 16px;
+}
+a {
+  color: #1d9bf0;
+}
+.img-three {
+  width: 12px;
+  height: 12px;
+  align-self: flex-start;
+}
+.img-four {
+  width: 16px;
+  height: 16px;
+  align-self: flex-start;
+}
